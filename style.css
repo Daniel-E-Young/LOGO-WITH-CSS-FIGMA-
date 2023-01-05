@@ -30,3 +30,6 @@ body {
 .circle {
  border-radius:50px;
 }
+.clip {
+ border-bottom-right-radius:50px;
+}
