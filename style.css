@@ -17,3 +17,16 @@ body {
  height: 100px;
  background: red;
 }
+.left {
+ border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+
+.right {
+ border-top-right-radius:50px;
+  border-bottom-right-radius:50px;
+}
+
+.circle {
+ border-radius:50px;
+}
