@@ -7,3 +7,8 @@ body {
   align-items: center;
   background-color: azure;
 }
+.figma-logo {
+ width: 200px;
+  display: flex;
+  flex-wrap:wrap;
+}
