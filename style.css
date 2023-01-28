@@ -7,6 +7,7 @@ body {
   align-items: center;
   background-color: azure;
 }
+
 .figma-logo {
  width: 200px;
   display: flex;
@@ -44,4 +45,13 @@ body {
 }
 .green {
  background: #00CE84;
+}
+
+.fadeInBottom { animation-name: fadeInBottom }
+@keyframes fadeInBottom {
+    from {
+        opacity: 0;
+        transform: translateY(100%);
+    }
+    to { opacity: 1 }
 }
